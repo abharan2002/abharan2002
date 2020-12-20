@@ -23,9 +23,11 @@ I'm a Student at Chitkara University CSE Branch. I am Learning new languages and
 ### 🔧 Technologies & Tools
 
   ---
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&labelColor=9c9c9c&color=brightgreen)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&labelColor=fdb827&color=54e346)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&labelColor=9c9c9c&color=orange)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&labelColor=black&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&labelColor=ffbf00&color=black)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&labelColor=black&color=orange)
+![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=blue&labelColor=black&color=blue)
+![](https://img.shields.io/badge/Framework-Bootstarp-informational?style=flat&logo=css3&logoColor=purple&labelColor=black&color=purple)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
 ### ⚡ Hobbies
 
