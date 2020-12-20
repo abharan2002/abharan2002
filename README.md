@@ -23,26 +23,10 @@ I'm a Student at Chitkara University CSE Branch. I am Learning new languages and
 ### 🔧 Technologies & Tools
 
   ---
-
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Gulp.js-informational?style=flat&logo=gulp&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-MongoDB.js-informational?style=flat&logo=mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-
-
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&labelColor=9c9c9c&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&labelColor=fdb827&color=54e346)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&labelColor=9c9c9c&color=orange)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
 ### ⚡ Hobbies
 
   ---
