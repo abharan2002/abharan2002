@@ -24,7 +24,7 @@ I'm a Student at Chitkara University CSE Branch. I am Learning new languages and
 
   ---
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&labelColor=black&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&labelColor=ffbf00&color=black)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&labelColor=black&color=ffbf00)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&labelColor=black&color=orange)
 ![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=blue&labelColor=black&color=blue)
 ![](https://img.shields.io/badge/Framework-Bootstarp-informational?style=flat&logo=css3&logoColor=purple&labelColor=black&color=purple)
