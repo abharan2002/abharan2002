@@ -30,6 +30,8 @@ I'm a Student at Chitkara University CSE Branch. I am Learning new languages and
 ![](https://img.shields.io/badge/Framework-Bootstarp-informational?style=flat&logo=bootstrap&logoColor=purple&labelColor=black&color=purple)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
 ![](https://img.shields.io/badge/Framework-jQuery-informational?style=flat&logo=jQuery&logoColor=blue&labelColor=black&color=blue)
+![](https://img.shields.io/badge/Environment-Node.js-informational?style=flat&logo=Node.js&logoColor=greenlabelColor=black&color=russiangreen)
+![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=000000&labelColor=grey&color=black)
 ### ⚡ Hobbies
 
   ---
