@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://twitter.com/abharangupta1"><img height="30" src="https://github.com/abharan2002/abharan2002/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abharangupta/"><img height="30" src="https://github.com/abharan2002/abharan2002/blob/main/insta.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abharan-gupta-96946ab2/"><img height="30" src="https://github.com/abharan2002/abharan2002/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/abharan/"><img height="30" src="https://github.com/abharan2002/abharan2002/blob/main/linkedin.png?raw=true"></a>
 </p>
 
 <!-- Greeting -->
