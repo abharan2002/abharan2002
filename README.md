@@ -1,21 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abharan%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Kapture%20CX%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Abharan%20Gupta&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=SDE%20II%20%7C%20Kapture%20CX%20%7C%20Backend%20%26%20Distributed%20Systems&amp;descSize=18&amp;descAlignY=52" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+Scalable+Microservices+%F0%9F%9A%80;Real-Time+Systems+%7C+10K%2B+events%2Fsec+%E2%9A%A1;Java+%7C+Spring+Boot+%7C+Kafka+%7C+K8s+%E2%98%81%EF%B8%8F;Designing+for+Reliability+%26+Performance+%F0%9F%94%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=550&amp;height=45&amp;lines=Building+Scalable+Microservices+%F0%9F%9A%80;Real-Time+Systems+%7C+10K%2B+events%2Fsec+%E2%9A%A1;Java+%7C+Spring+Boot+%7C+Kafka+%7C+K8s+%E2%98%81%EF%B8%8F;Designing+for+Reliability+%26+Performance+%F0%9F%94%A7" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abharan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://abharan.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
-  <a href="mailto:abharan.2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://twitter.com/abharangupta1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/abharangupta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abharan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>&nbsp;
+  <a href="https://abharan.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white"/></a>&nbsp;
+  <a href="mailto:abharan.2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/abharangupta1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/abharangupta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abharan2002&style=flat-square&color=6C63FF&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abharan2002&amp;style=flat-square&amp;color=6C63FF&amp;label=Profile+Views"/>
 </p>
 
 ---
@@ -50,37 +50,37 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 <tr>
 <td align="center" width="130"><b>Languages</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&amp;theme=dark"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,redis,elasticsearch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,redis,elasticsearch&amp;theme=dark"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;theme=dark"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>Cloud & DevOps</b></td>
+<td align="center"><b>Cloud &amp; DevOps</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp&amp;theme=dark"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,maven,gradle,idea&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,maven,gradle,idea&amp;theme=dark"/>
 </td>
 </tr>
 </table>
@@ -109,7 +109,7 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=abharan2002&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+    <img src="https://github-trophies.vercel.app/?username=abharan2002&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10"/>
   </a>
 </p>
 
@@ -124,20 +124,20 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abharan2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abharan2002&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abharan2002&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abharan2002&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;langs_count=8"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abharan2002&theme=tokyonight&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=abharan2002&theme=default&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abharan2002&amp;theme=tokyonight&amp;hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=abharan2002&amp;theme=default&amp;hide_border=true"/>
   </picture>
 </p>
 
@@ -146,7 +146,7 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
 </p>
 
 ---
@@ -154,9 +154,9 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 ## 🎵 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
