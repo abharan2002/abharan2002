@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abharan%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Kapture%20CX%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abharan%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SDE%20II%20at%20Kapture%20CX&descSize=20&descAlignY=55)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
