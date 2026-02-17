@@ -66,7 +66,7 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 </td>
 </tr>
 <tr>
-<td align="center"><b>Cloud &amp; DevOps</b></td>
+<td align="center"><b>Cloud / DevOps</b></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp&amp;theme=dark"/>
 </td>
@@ -116,50 +116,29 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=abharan2002&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10"/>
-  </a>
-</p>
+[![trophy](https://github-trophies.vercel.app/?username=abharan2002&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abharan2002&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abharan2002&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;langs_count=8"/>
-  </picture>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abharan2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/abharan2002)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abharan2002&amp;theme=tokyonight&amp;hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=abharan2002&amp;theme=default&amp;hide_border=true"/>
-  </picture>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/abharan2002)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abharan2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&theme=tokyo-night&hide_border=true&area=true)](https://github.com/abharan2002)
 
 ---
 
 ## 🎵 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
-</p>
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
