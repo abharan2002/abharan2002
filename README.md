@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Abharan%20Gupta&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=SDE%20II%20%7C%20Kapture%20CX%20%7C%20Backend%20%26%20Distributed%20Systems&amp;descSize=18&amp;descAlignY=52" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abharan%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Kapture%20CX%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlignY=52)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -107,16 +107,20 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 ## 🏆 Achievements
 
+> 🥇 **Top Performer** — 2 consecutive quarters at Kapture CX  
+> 📈 Improved team delivery velocity by **20%** mentoring **5+ junior devs**  
+> 🎤 Led **3 internal workshops** on Microservices & Redis — upskilled **20+ engineers**  
+> ✅ **100% on-time delivery** on emergency high-priority initiatives
+
+---
+
+## 🏅 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-trophies.vercel.app/?username=abharan2002&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10"/>
   </a>
 </p>
-
-> 🥇 **Top Performer** — 2 consecutive quarters at Kapture CX  
-> 📈 Improved team delivery velocity by **20%** mentoring **5+ junior devs**  
-> 🎤 Led **3 internal workshops** on Microservices & Redis — upskilled **20+ engineers**  
-> ✅ **100% on-time delivery** on emergency high-priority initiatives
 
 ---
 
@@ -159,4 +163,4 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Abharan%20Gupta&fontSize=24&fontColor=fff&fontAlignY=65&animation=twinkling)
