@@ -116,30 +116,59 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 ## 🏅 GitHub Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=abharan2002&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=abharan2002&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophies"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
-[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
+<p align="center">
+  <a href="https://github.com/abharan2002">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abharan2002&amp;theme=tokyonight" alt="Stats"/>
+  </a>
+  <a href="https://github.com/abharan2002">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abharan2002&amp;theme=tokyonight" alt="Repos per Language"/>
+  </a>
+  <a href="https://github.com/abharan2002">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abharan2002&amp;theme=tokyonight" alt="Most Commit Language"/>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abharan2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/abharan2002">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abharan2002&amp;theme=tokyonight" alt="Profile Details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=abharan2002&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&theme=tokyo-night&hide_border=true&area=true)](https://github.com/abharan2002)
+<p align="center">
+  <a href="https://github.com/abharan2002">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abharan2002&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="100%"/>
+  </a>
+</p>
 
 ---
 
 ## 🎵 Random Dev Quote
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
+  </a>
+</p>
 
 ---
 
