@@ -122,9 +122,10 @@ hobbies: ["🏸 Badminton", "🎮 Gaming", "🚴 Riding"]
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abharan2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/abharan2002)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abharan2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/abharan2002)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abharan2002&theme=tokyonight)](https://github.com/abharan2002)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abharan2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
